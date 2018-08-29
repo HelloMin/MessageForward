@@ -2,6 +2,9 @@
 
 Android 运行方式
 
+注意打开悬浮窗权限/usb安装权限
+$ react-native run-android
+
 $ lsof -i :8081
 
 Method 2: Connect via Wi-Fi
